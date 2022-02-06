@@ -206,7 +206,7 @@ body{
    display: inline-block;
    height: 22px;
    width: 22px;
-   background-image: url('./assets/angle-down\(1\).svg');
+   background-image: url('angle-down\(1\).svg');
    vertical-align: middle;
    cursor: pointer;
 }
@@ -220,7 +220,7 @@ body{
     cursor: pointer;
 }
 .search-form button .search-icon{
-    background-image: url('./assets/search.svg');
+    background-image: url('search.svg');
     display: block;
     width: 22px;
     height: 22px;
@@ -256,7 +256,7 @@ body{
 }
 
 .language-selector .language-down{
-    background-image: url('./assets/angle-down(blue).svg');
+    background-image: url('angle-down(blue).svg');
     display: inline-block;
     height: 22px;
     width: 22px;
